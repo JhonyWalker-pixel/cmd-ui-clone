@@ -7,7 +7,7 @@
 
 A simple interface of the most famous CMD in the world, where it is shown in several films running several lines and lines of code. But it is not only in fiction that he is famous, he is an extremely important tool. Click [here](https://jhonywalker-pixel.github.io/cmd-ui-clone/) to see the result
 
-## :computer: Languages used
+## :computer: Used languages
 
 The cool thing is that this project only used CSS
 
